@@ -1,1 +1,1 @@
-This is project used to learn the Spring security using JWT token.
+This is project used to show how to use Spring security using JWT token.
